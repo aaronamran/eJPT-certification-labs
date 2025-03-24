@@ -23,16 +23,44 @@ Repository to store practical lab writeups and CTFs for each eJPT chapters
 - [Assessment Methodologies: Enumeration CTF1]()
 
 #### Vulnerability Assessment
+- [Windows: IIS Server DAVTest]()
+- [Shellshock]()
+- [Web App Vulnerability Scanning With WMAP]()
+- [Assessment Methodologies: Vulnerability Assessment CTF1]()
 
-## Host & Networking Auditing
-#### Auditing Fundamentals
 
 ## Host & Network Penetration Testing
 #### System/Host Based Attacks
+- [Windows: IIS Server: WebDAV Metasploit]()
+- [Windows: SMB Server PSexec]()
+- [Windows: Insecure RDP Service]()
+- [WinRM: Exploitation with Metasploit]()
+- [UAC Bypass: UACMe]()
+- [Privilege Escalation: Impersonate]()
+- [Unattended Installation]()
+- [Windows: Meterpreter: Kiwi Extension]()
+- [Host & Network Penetration Testing: System-Host Based Attacks CTF1]()
+- [Shellshock]()
+- [ProFTP Recon: Basics]()
+- [SSH Login]()
+- [Samba Recon: Dictionary Attack]()
+- [Cron Jobs Gone Wild II]()
+- [Exploiting Setuid Programs]()
+- [Password Cracker: Linux]()
+- [Host & Network Penetration Testing: System-Host Based Attacks CTF2]()
+
 #### Network-Based Attacks
+
+
 #### The Metasploit Framework (MSF)
+
+
 #### Exploitation
+
+
 #### Post-Exploitation
+
+
 #### Social Engineering
 
 ## Web Application Penetration Testing
