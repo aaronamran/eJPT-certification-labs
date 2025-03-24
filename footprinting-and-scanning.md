@@ -41,5 +41,17 @@ nmap -Pn -sV -p 80 demo.ine.local
 ```
 ![image](https://github.com/user-attachments/assets/a27712d3-e734-4495-aa72-233ffe9e68f9)
 
+<hr />
+
+# Scan the Server 1
+
+
+
+# Assessment Methodologies: Footprinting and Scanning CTF1
+
+
+# Windows Recon: SMB Nmap Scripts
+
+
 
 
