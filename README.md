@@ -2,10 +2,10 @@
 Repository to store practical lab writeups and CTFs for each eJPT chapters
 
 ## Assessment Methodologies
-- [Information Gathering](https://github.com/aaronamran/eJPT-notes/blob/main/information-gathering.md)
-- [Footprinting & Scanning](https://github.com/aaronamran/eJPT-notes/blob/main/footprinting-and-scanning.md)
-- [Enumeration](https://github.com/aaronamran/eJPT-notes/blob/main/enumeration.md)
-- [Vulnerability Assessment](https://github.com/aaronamran/eJPT-notes/blob/main/vulnerability-assessment.md)
+#### Information Gathering
+#### Footprinting & Scanning
+#### Enumeration 
+#### Vulnerability Assessment
 
 ## Host & Networking Auditing
 - [Auditing Fundamentals](https://github.com/aaronamran/eJPT-notes/blob/main/auditing-fundamentals.md)
