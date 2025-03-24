@@ -1,5 +1,5 @@
 # eJPT-notes
-Repository to store important notes, questions and lab writeups for each of eJPT chapters
+Repository to store practical lab writeups and CTFs for each eJPT chapters
 
 ## Assessment Methodologies
 - [Information Gathering](https://github.com/aaronamran/eJPT-notes/blob/main/information-gathering.md)
