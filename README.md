@@ -1,4 +1,5 @@
 # eJPT-notes
+Repository to store important notes, questions and lab writeups for each of eJPT chapters
 
 ## Assessment Methodologies
 - [Information Gathering]()
