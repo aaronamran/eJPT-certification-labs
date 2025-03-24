@@ -3,7 +3,14 @@ Repository to store practical lab writeups and CTFs for each eJPT chapters
 
 ## Assessment Methodologies
 #### Information Gathering
+- [Assessment Methodologies: Information Gathering CTF 1](https://github.com/aaronamran/eJPT-notes/blob/main/Information_Gathering/information-gathering-ctf1.md)
+  
 #### Footprinting & Scanning
+-
+-
+-
+-
+
 #### Enumeration 
 #### Vulnerability Assessment
 
