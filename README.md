@@ -11,20 +11,29 @@ Repository to store practical lab writeups and CTFs for each eJPT chapters
 - [Assessment Methodologies: Footprinting and Scanning CTF1](https://github.com/aaronamran/eJPT-notes/blob/main/Footprinting_And_Scanning/footprinting_and_scanning_ctf1.md)
 - [Windows Recon: SMB Nmap Scripts](https://github.com/aaronamran/eJPT-notes/blob/main/Footprinting_And_Scanning/smb_nmap_scripts.md)
 
-
 #### Enumeration 
+- [Importing Nmap Scan Results Into MSF]()
+- [Network Service Scanning]()
+- [FTP Enumeration]()
+- [Samba Recon: Basics]()
+- [Apache Enumeration]()
+- [MySQL Enumeration]()
+- [SSH Login]()
+- [Postfix Recon: Basics]()
+- [Assessment Methodologies: Enumeration CTF1]()
+
 #### Vulnerability Assessment
 
 ## Host & Networking Auditing
-- [Auditing Fundamentals](https://github.com/aaronamran/eJPT-notes/blob/main/auditing-fundamentals.md)
+#### Auditing Fundamentals
 
 ## Host & Network Penetration Testing
-- [System/Host Based Attacks](https://github.com/aaronamran/eJPT-notes/blob/main/system-host-based-attacks.md)
-- [Network-Based Attacks](https://github.com/aaronamran/eJPT-notes/blob/main/network-based-attacks.md)
-- [The Metasploit Framework (MSF)](https://github.com/aaronamran/eJPT-notes/blob/main/metasploit-framework.md)
-- [Exploitation](https://github.com/aaronamran/eJPT-notes/blob/main/exploitation.md)
-- [Post-Exploitation](https://github.com/aaronamran/eJPT-notes/blob/main/post-exploitation.md)
-- [Social Engineering](https://github.com/aaronamran/eJPT-notes/blob/main/social-engineering.md)
+#### System/Host Based Attacks
+#### Network-Based Attacks
+#### The Metasploit Framework (MSF)
+#### Exploitation
+#### Post-Exploitation
+#### Social Engineering
 
 ## Web Application Penetration Testing
-- [Introduction to the Web & HTTP Protocol](https://github.com/aaronamran/eJPT-notes/blob/main/intro-web-http-protocol.md)
+#### Introduction to the Web & HTTP Protocol
