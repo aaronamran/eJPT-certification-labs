@@ -50,12 +50,12 @@
    "The IPC$ share is also known as a null session connection. By using this session, Windows lets anonymous users perform certain activities, such as enumerating the names of domain accounts and network shares."
 
 10. Scanning all shares using valid credentials to check the permissions.
-   ```
-   nmap -p445 --script smb-enum-shares --script-args smbusername=administrator,smbpassword=smbserver_771 demo.ine.local
-   ```
-   ![image](https://github.com/user-attachments/assets/9b952d2a-de91-4603-9513-2ff6b9a72739)
-   ![image](https://github.com/user-attachments/assets/a9c3b201-9992-4d74-8b29-328fd856e80d)
-   ![image](https://github.com/user-attachments/assets/0bbcde34-8fd5-4a87-82e7-9e71062ff188)
+    ```
+    nmap -p445 --script smb-enum-shares --script-args smbusername=administrator,smbpassword=smbserver_771 demo.ine.local
+    ```
+    ![image](https://github.com/user-attachments/assets/9b952d2a-de91-4603-9513-2ff6b9a72739)
+    ![image](https://github.com/user-attachments/assets/a9c3b201-9992-4d74-8b29-328fd856e80d)
+    ![image](https://github.com/user-attachments/assets/0bbcde34-8fd5-4a87-82e7-9e71062ff188)
 
 11. We can observe that the administrator user has read and write privilege to the entire C$. i.e C:\ <br />
     Enumerate the windows users on a target machine.
