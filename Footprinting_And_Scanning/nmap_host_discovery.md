@@ -28,14 +28,13 @@
    ![image](https://github.com/user-attachments/assets/8198aa1f-1633-46b9-9513-c4e38dcd404b)
    We can observe in the Nmap output that the host is up, but port 443 is filtered.
 
-About Filtered port:
+   About Filtered port:
+   Nmap cannot determine whether the port is open because packet filtering prevents its probes from reaching the port. The filtering could be from a dedicated firewall device, router rules, or host-based firewall software. These ports frustrate attackers because they provide so little information. Sometimes they respond with ICMP error messages such as type 3 code 13 (destination unreachable: communication administratively prohibited), but filters that simply drop probes without responding are far more common. This forces Nmap to retry several times just in case the probe was dropped due to network congestion rather than filtering. This slows down the scan dramatically.
 
-Nmap cannot determine whether the port is open because packet filtering prevents its probes from reaching the port. The filtering could be from a dedicated firewall device, router rules, or host-based firewall software. These ports frustrate attackers because they provide so little information. Sometimes they respond with ICMP error messages such as type 3 code 13 (destination unreachable: communication administratively prohibited), but filters that simply drop probes without responding are far more common. This forces Nmap to retry several times just in case the probe was dropped due to network congestion rather than filtering. This slows down the scan dramatically.
-
-Similarly, if we want to discover the running application on port 80, we could use option -sV, and this option is used to determine the application version information.
-```
-nmap -Pn -sV -p 80 demo.ine.local
-```
-![image](https://github.com/user-attachments/assets/a27712d3-e734-4495-aa72-233ffe9e68f9)
+7. Similarly, if we want to discover the running application on port 80, we could use option -sV, and this option is used to determine the application version information.
+    ```
+    nmap -Pn -sV -p 80 demo.ine.local
+    ```
+    ![image](https://github.com/user-attachments/assets/a27712d3-e734-4495-aa72-233ffe9e68f9)
 
 
